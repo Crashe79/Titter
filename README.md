@@ -1,2 +1,2 @@
-Titter ([WRIO](http://wr.io) App)
+Titter - [WRIO](http://wr.io) App
 =
